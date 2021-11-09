@@ -10,7 +10,7 @@ default: &default
   # timeout: 5000
   adapter: postgresql
   encoding: utf8
-  username: tuantd
+  username: tuantd16
   password: '123456'
   pool: 5
   wait_timeout: 5
