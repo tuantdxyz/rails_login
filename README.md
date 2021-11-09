@@ -12,5 +12,6 @@ ex: https://viblo.asia/p/series-huong-dan-lap-trinh-ruby-on-rails-phan-1-mrDkMrr
 3. rails db:migrate
 4. rails s
 5. http://localhost:3000/login
-6. TODO bug registry 
-
+(login: tuantd:123456)
+6. TODO bug registry
+7. TODO GRPC

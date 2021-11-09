@@ -7,6 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 # db/seeds.rb
+# login: tuantd:123456
+
 connection = ActiveRecord::Base.connection()
 
 sql = <<-EOL
